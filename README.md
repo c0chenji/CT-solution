@@ -1,6 +1,6 @@
 # Introduction
 
-coin-tracker-solution is used to check real-time data on coinbase and coinGecko and export multiple CSV file with a specific format.
+coin-tracker-solution is used to check real-time data on coinbase and coinGecko and export multiple CSV files with a specific format.
 
 ## Requirement
 
