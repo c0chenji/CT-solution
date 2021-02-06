@@ -300,7 +300,7 @@ def throw_tasks(a):
 
 
 if __name__ == "__main__":
-    rootPath = r"D:\Programming\wamp\www\Python\api_request\coinGecko"
+    rootPath = r"the directory you want to export outputs"
     # testd history
     # export_coin_history_by_id("btc")
     # export_coin_history_by_id(["btc","ltc"],"eur")
